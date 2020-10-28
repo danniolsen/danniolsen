@@ -2,9 +2,9 @@
 🌴 Palm tree grower  
 🛹 20 years of skateboarding  
 🌏 Places I have lived
-🇩🇰Home country
-🇫🇮Work and study for 2 years
-🇩🇪Work and skateboarding for 1.5 year
+🇩🇰Home country  
+🇫🇮Work and study for 2 years  
+🇩🇪Work and skateboarding for 1.5 year  
 🇪🇸6 months of working remote
 
 ### Stack
