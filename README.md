@@ -1,6 +1,6 @@
 🎓 Computer science 2019  
 🌴 Palm tree grower  
-🛹 20 years of skateboarding
+🛹 20 years of skateboarding  
 🌏 Places I have lived
 
 - 🇩🇰Home country
